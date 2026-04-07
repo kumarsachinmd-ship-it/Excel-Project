@@ -1,3 +1,5 @@
 # Excel-Project
-<img width="576" height="286" alt="image" src="https://github.com/user-attachments/assets/42620f40-b70f-49e3-8473-e0e3cd7815d2" />
+<img width="1101" height="498" alt="image" src="https://github.com/user-attachments/assets/fb77585e-9b4a-4970-9119-a215aee01a25" />
+
+
 I have use vlookup,pivot chart,slicer ,count,dax  modeling and got these insights also i have organised the data in charts
