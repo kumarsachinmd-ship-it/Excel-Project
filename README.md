@@ -3,3 +3,4 @@
 
 
 I have use vlookup,pivot chart,slicer ,count,dax  modeling and got these insights also i have organised the data in charts
+<img width="833" height="544" alt="Image" src="https://github.com/user-attachments/assets/17540e52-0111-4a24-bc67-0b08fda9bc26" />
